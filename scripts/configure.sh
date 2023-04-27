@@ -2,8 +2,8 @@
 
 set -euo pipefail;
 
-# set cwd to project root
-cd "$(dirname "${BASH_SOURCE[0]}")/..";
+# set cwd to project roo
+cd "$(dirname "${BASH_SOURCE[0]}")/.."
 
 echo "==========="
 echo "configuring"
