@@ -1,0 +1,7 @@
+{
+    "C_Cpp.default.includePath": [
+        "${workspaceFolder}/**",
+        "${workspaceFolder}/Dependencies/GWCA",
+        "${workspaceFolder}/MyDLL/src",
+    ],
+}
