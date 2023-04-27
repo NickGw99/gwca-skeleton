@@ -20,7 +20,7 @@ Skeleton for setting up a GWCA based project without Visual Studio and with Git 
 ## Build and run
 
 1. Open the project with Git Bash
-2. Run `./scripts/setup.sh`. This executes CMake's `configure` and CMake's `build` to create our target executables and DLL's.
+2. Run `scripts/setup.sh`. This executes CMake's `configure` and CMake's `build` to create our target executables and DLL's.
 3. Copy `Inject.au3` into `build/Debug`. It can be used to inject a DLL into Guild Wars processes.
 4. Execute `build/Debug/Inject.au3` (requires AutoIt to be installed). Select the DLL to be injected (eg `PacketLogger.dll`).
 
