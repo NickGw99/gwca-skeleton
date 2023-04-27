@@ -13,8 +13,9 @@ Skeleton for setting up a GWCA based project without Visual Studio and with Git 
 
 1. Windows
 2. Git Bash
-3. AutoIt
-4. MSBuild (compiler toolchain that comes with Visual Studio, make sure you have the C++ toolchain).
+3. CMake (installed and in your $PATH)
+4. AutoIt
+5. MSBuild (compiler toolchain that comes with Visual Studio, make sure you have the C++ toolchain).
 
 ## Build and run
 
